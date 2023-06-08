@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { UploadedFile } from 'express-fileupload';
 import FormData from 'form-data';
 import fs from 'fs';
 
